@@ -1,5 +1,6 @@
 # fabrika
 test app for FR
+
 django + postgresql + django-rest-framework + swagger
 
 инструкция по разворачиванию приложения локально:
