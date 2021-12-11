@@ -6,7 +6,7 @@ django + postgresql + django-rest-framework + swagger
 инструкция по разворачиванию приложения локально:
 ```
 1. клонировать репозиторий
-git clone https://github.com/axnsan12/drf-yasg.git
+git clone https://github.com/Zlofey/fabrika
 
 2. создать виртуальное окружение
 cd fabrika
