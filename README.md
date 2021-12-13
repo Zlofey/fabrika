@@ -1,9 +1,10 @@
 # fabrika
-test app for FR
+Тестовое для ФР, приложение для голосования.
 
+Cтек:
 django + postgresql + django-rest-framework + swagger
 
-инструкция по разворачиванию приложения локально:
+Инструкция по разворачиванию приложения локально:
 ```
 1. клонировать репозиторий
 git clone https://github.com/Zlofey/fabrika
@@ -27,9 +28,10 @@ python manage.py createsuperuser
 
 7. запустить сервер
 python manage.py runserver
-
 ```
+Можно протестировать онлайн:
+[heroku](https://fb-poll-app.herokuapp.com/swagger/) (логопас админки admin 123)
 
-Создание опросов реализовано через админку /admin
+Создание опросов реализовано через админку( /admin )
 
-Остальной функционал описан в swagger /swagger 
+Остальной функционал описан в swagger( /swagger ) 
